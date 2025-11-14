@@ -1,0 +1,23 @@
+&general
+   startframe=4999,
+   endframe=20000,
+   interval=30,
+   verbose=2,
+   keep_files=0,
+/
+
+&gb
+   igb=5,
+   saltcon=0.150,
+/
+
+&pb
+   istrng=0.150,
+   inp=2,
+   radiopt=0,
+/
+
+&decomp
+   idecomp=1,
+/
+
